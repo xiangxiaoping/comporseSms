@@ -1,0 +1,20 @@
+{
+    "name": "heyu/smsClass",
+    "description": "common sms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "heyu",
+            "email": "18781085152@163.com.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rsa-esc\\": "src/"
+        }
+    }
+}
